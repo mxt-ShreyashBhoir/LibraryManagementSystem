@@ -59,27 +59,6 @@ Java OOP features (Encapsulation, Inheritance, Polymorphism, Abstraction)
 
 No persistence layer — designed for in-memory simulation.
 
-🛠️ How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/library-management-system.git
-cd library-management-system
-Compile:
-
-bash
-Copy
-Edit
-./gradlew build
-Run:
-
-bash
-Copy
-Edit
-./gradlew run
-Or directly from your IDE by running the LibraryMain class.
 
 📖 Example Usage
 Create bookshelves, add books to them, and register books in the library.
